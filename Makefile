@@ -9,10 +9,10 @@ SRC = odd.c\
 src/odd.c\
 
 # All test source files
-TEST_SRC = src/odd.c\
-test/odd.c
+#TEST_SRC = src/odd.c\
+#test/odd.c
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+#TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= -Iinc
