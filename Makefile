@@ -10,7 +10,7 @@ src/odd.c\
 
 # All test source files
 TEST_SRC = src/odd.c\
-test/odd.c\
+test/odd.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
